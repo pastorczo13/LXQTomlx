@@ -1,0 +1,15 @@
+#./local/share/lxqt/palettes/
+# pastorczo13
+# https://forum.openmandriva.org/
+#
+[Palette]
+base_color=#31363b
+highlight_color=#2080bb
+highlighted_text_color=#000000
+link_color=#38714b
+link_visited_color=#e2266e
+text_color=#ffffff
+tooltip_base_color=#cc2263
+tooltip_text_color=#dac040
+window_color=#071b26
+window_text_color=#afb3bd
